@@ -42,7 +42,7 @@
         <cobertura.version>2.7</cobertura.version>
 
     </properties>
-    <dependencies>
+
     <dependencyManagement>
         <!-- Import the maven Spring IO Platform Bill Of Materials (BOM) -->
         <dependencies>
